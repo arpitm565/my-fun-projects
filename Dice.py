@@ -1,4 +1,4 @@
-
+#A Dice simulator which allows recurrence of 6, 3 times
 import random as r
 a = (input("Greetings user! Would you like to roll the dice ? , Yes or No " ).lower())
 def inputchecker(a) :
